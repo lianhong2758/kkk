@@ -1,0 +1,2 @@
+RelicConfig.json
+https://github.com/Dimbreath/StarRailData/blob/master/ExcelOutput/RelicConfig.json

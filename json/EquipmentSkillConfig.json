@@ -1,0 +1,8270 @@
+{
+  "20000": {
+    "1": {
+      "SkillID": 20000,
+      "SkillName": {
+        "Hash": -1480616705
+      },
+      "SkillDesc": {
+        "Hash": 1777866215
+      },
+      "Level": 1,
+      "AbilityName": "Ability20000",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20000,
+      "SkillName": {
+        "Hash": -1883901232
+      },
+      "SkillDesc": {
+        "Hash": 1777866215
+      },
+      "Level": 2,
+      "AbilityName": "Ability20000",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20000,
+      "SkillName": {
+        "Hash": -317817291
+      },
+      "SkillDesc": {
+        "Hash": 1777866215
+      },
+      "Level": 3,
+      "AbilityName": "Ability20000",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20000,
+      "SkillName": {
+        "Hash": -721101818
+      },
+      "SkillDesc": {
+        "Hash": 1777866215
+      },
+      "Level": 4,
+      "AbilityName": "Ability20000",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20000,
+      "SkillName": {
+        "Hash": 844982123
+      },
+      "SkillDesc": {
+        "Hash": 1777866215
+      },
+      "Level": 5,
+      "AbilityName": "Ability20000",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20001": {
+    "1": {
+      "SkillID": 20001,
+      "SkillName": {
+        "Hash": 1268469626
+      },
+      "SkillDesc": {
+        "Hash": -951017140
+      },
+      "Level": 1,
+      "AbilityName": "Ability20001",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20001,
+      "SkillName": {
+        "Hash": -297614315
+      },
+      "SkillDesc": {
+        "Hash": -951017140
+      },
+      "Level": 2,
+      "AbilityName": "Ability20001",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20001,
+      "SkillName": {
+        "Hash": -1863698256
+      },
+      "SkillDesc": {
+        "Hash": -951017140
+      },
+      "Level": 3,
+      "AbilityName": "Ability20001",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20001,
+      "SkillName": {
+        "Hash": 865185099
+      },
+      "SkillDesc": {
+        "Hash": -951017140
+      },
+      "Level": 4,
+      "AbilityName": "Ability20001",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20001,
+      "SkillName": {
+        "Hash": -700898842
+      },
+      "SkillDesc": {
+        "Hash": -951017140
+      },
+      "Level": 5,
+      "AbilityName": "Ability20001",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20002": {
+    "1": {
+      "SkillID": 20002,
+      "SkillName": {
+        "Hash": -1762941707
+      },
+      "SkillDesc": {
+        "Hash": 615066801
+      },
+      "Level": 1,
+      "AbilityName": "Ability20002",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20002,
+      "SkillName": {
+        "Hash": -196857766
+      },
+      "SkillDesc": {
+        "Hash": 615066801
+      },
+      "Level": 2,
+      "AbilityName": "Ability20002",
+      "ParamList": [
+        {
+          "Value": 0.249999996309518
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20002,
+      "SkillName": {
+        "Hash": 1369226175
+      },
+      "SkillDesc": {
+        "Hash": 615066801
+      },
+      "Level": 3,
+      "AbilityName": "Ability20002",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20002,
+      "SkillName": {
+        "Hash": -1003426820
+      },
+      "SkillDesc": {
+        "Hash": 615066801
+      },
+      "Level": 4,
+      "AbilityName": "Ability20002",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20002,
+      "SkillName": {
+        "Hash": 562657121
+      },
+      "SkillDesc": {
+        "Hash": 615066801
+      },
+      "Level": 5,
+      "AbilityName": "Ability20002",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20003": {
+    "1": {
+      "SkillID": 20003,
+      "SkillName": {
+        "Hash": 986144624
+      },
+      "SkillDesc": {
+        "Hash": -2113816554
+      },
+      "Level": 1,
+      "AbilityName": "Ability20003",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 20003,
+      "SkillName": {
+        "Hash": 1389429151
+      },
+      "SkillDesc": {
+        "Hash": -2113816554
+      },
+      "Level": 2,
+      "AbilityName": "Ability20003",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 20003,
+      "SkillName": {
+        "Hash": -176654790
+      },
+      "SkillDesc": {
+        "Hash": -2113816554
+      },
+      "Level": 3,
+      "AbilityName": "Ability20003",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 20003,
+      "SkillName": {
+        "Hash": 582860097
+      },
+      "SkillDesc": {
+        "Hash": -2113816554
+      },
+      "Level": 4,
+      "AbilityName": "Ability20003",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 20003,
+      "SkillName": {
+        "Hash": -983223844
+      },
+      "SkillDesc": {
+        "Hash": -2113816554
+      },
+      "Level": 5,
+      "AbilityName": "Ability20003",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.31999999527618306
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "20004": {
+    "1": {
+      "SkillID": 20004,
+      "SkillName": {
+        "Hash": -2045266709
+      },
+      "SkillDesc": {
+        "Hash": -191502253
+      },
+      "Level": 1,
+      "AbilityName": "Ability20004",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20004,
+      "SkillName": {
+        "Hash": 1846416060
+      },
+      "SkillDesc": {
+        "Hash": -191502253
+      },
+      "Level": 2,
+      "AbilityName": "Ability20004",
+      "ParamList": [
+        {
+          "Value": 0.249999996309518
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20004,
+      "SkillName": {
+        "Hash": -882467295
+      },
+      "SkillDesc": {
+        "Hash": -191502253
+      },
+      "Level": 3,
+      "AbilityName": "Ability20004",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20004,
+      "SkillName": {
+        "Hash": -1641982182
+      },
+      "SkillDesc": {
+        "Hash": -191502253
+      },
+      "Level": 4,
+      "AbilityName": "Ability20004",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20004,
+      "SkillName": {
+        "Hash": -75898241
+      },
+      "SkillDesc": {
+        "Hash": -191502253
+      },
+      "Level": 5,
+      "AbilityName": "Ability20004",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20005": {
+    "1": {
+      "SkillID": 20005,
+      "SkillName": {
+        "Hash": 703819622
+      },
+      "SkillDesc": {
+        "Hash": 1374581688
+      },
+      "Level": 1,
+      "AbilityName": "Ability20005",
+      "ParamList": [
+        {
+          "Value": 0.07999999881904576
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20005,
+      "SkillName": {
+        "Hash": -862264319
+      },
+      "SkillDesc": {
+        "Hash": 1374581688
+      },
+      "Level": 2,
+      "AbilityName": "Ability20005",
+      "ParamList": [
+        {
+          "Value": 0.08999999867142648
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20005,
+      "SkillName": {
+        "Hash": 1866619036
+      },
+      "SkillDesc": {
+        "Hash": 1374581688
+      },
+      "Level": 3,
+      "AbilityName": "Ability20005",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20005,
+      "SkillName": {
+        "Hash": -55695265
+      },
+      "SkillDesc": {
+        "Hash": 1374581688
+      },
+      "Level": 4,
+      "AbilityName": "Ability20005",
+      "ParamList": [
+        {
+          "Value": 0.10999999837618792
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20005,
+      "SkillName": {
+        "Hash": -1621779206
+      },
+      "SkillDesc": {
+        "Hash": 1374581688
+      },
+      "Level": 5,
+      "AbilityName": "Ability20005",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20006": {
+    "1": {
+      "SkillID": 20006,
+      "SkillName": {
+        "Hash": 1967375585
+      },
+      "SkillDesc": {
+        "Hash": -1354301667
+      },
+      "Level": 1,
+      "AbilityName": "Ability20006",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20006,
+      "SkillName": {
+        "Hash": -761507770
+      },
+      "SkillDesc": {
+        "Hash": -1354301667
+      },
+      "Level": 2,
+      "AbilityName": "Ability20006",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20006,
+      "SkillName": {
+        "Hash": 804576171
+      },
+      "SkillDesc": {
+        "Hash": -1354301667
+      },
+      "Level": 3,
+      "AbilityName": "Ability20006",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20006,
+      "SkillName": {
+        "Hash": -1924307184
+      },
+      "SkillDesc": {
+        "Hash": -1354301667
+      },
+      "Level": 4,
+      "AbilityName": "Ability20006",
+      "ParamList": [
+        {
+          "Value": 0.4899999927666553
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20006,
+      "SkillName": {
+        "Hash": -358223243
+      },
+      "SkillDesc": {
+        "Hash": -1354301667
+      },
+      "Level": 5,
+      "AbilityName": "Ability20006",
+      "ParamList": [
+        {
+          "Value": 0.5599999917333203
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20007": {
+    "1": {
+      "SkillID": 20007,
+      "SkillName": {
+        "Hash": 421494620
+      },
+      "SkillDesc": {
+        "Hash": 211782274
+      },
+      "Level": 1,
+      "AbilityName": "Ability20007",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20007,
+      "SkillName": {
+        "Hash": 824779147
+      },
+      "SkillDesc": {
+        "Hash": 211782274
+      },
+      "Level": 2,
+      "AbilityName": "Ability20007",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20007,
+      "SkillName": {
+        "Hash": -741304794
+      },
+      "SkillDesc": {
+        "Hash": 211782274
+      },
+      "Level": 3,
+      "AbilityName": "Ability20007",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20007,
+      "SkillName": {
+        "Hash": -338020267
+      },
+      "SkillDesc": {
+        "Hash": 211782274
+      },
+      "Level": 4,
+      "AbilityName": "Ability20007",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20007,
+      "SkillName": {
+        "Hash": -1904104208
+      },
+      "SkillDesc": {
+        "Hash": 211782274
+      },
+      "Level": 5,
+      "AbilityName": "Ability20007",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20008": {
+    "1": {
+      "SkillID": 20008,
+      "SkillName": {
+        "Hash": -351316697
+      },
+      "SkillDesc": {
+        "Hash": 2134096575
+      },
+      "Level": 1,
+      "AbilityName": "Ability20008",
+      "ParamList": [
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20008,
+      "SkillName": {
+        "Hash": -754601224
+      },
+      "SkillDesc": {
+        "Hash": 2134096575
+      },
+      "Level": 2,
+      "AbilityName": "Ability20008",
+      "ParamList": [
+        {
+          "Value": 7.499999882766282
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20008,
+      "SkillName": {
+        "Hash": 811482717
+      },
+      "SkillDesc": {
+        "Hash": 2134096575
+      },
+      "Level": 3,
+      "AbilityName": "Ability20008",
+      "ParamList": [
+        {
+          "Value": 8.999999858760745
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20008,
+      "SkillName": {
+        "Hash": 408198190
+      },
+      "SkillDesc": {
+        "Hash": 2134096575
+      },
+      "Level": 4,
+      "AbilityName": "Ability20008",
+      "ParamList": [
+        {
+          "Value": 10.49999983568653
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20008,
+      "SkillName": {
+        "Hash": 1974282131
+      },
+      "SkillDesc": {
+        "Hash": 2134096575
+      },
+      "Level": 5,
+      "AbilityName": "Ability20008",
+      "ParamList": [
+        {
+          "Value": 11.999999811680993
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20009": {
+    "1": {
+      "SkillID": 20009,
+      "SkillName": {
+        "Hash": -1897197662
+      },
+      "SkillDesc": {
+        "Hash": -594786780
+      },
+      "Level": 1,
+      "AbilityName": "Ability20009",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20009,
+      "SkillName": {
+        "Hash": 831685693
+      },
+      "SkillDesc": {
+        "Hash": -594786780
+      },
+      "Level": 2,
+      "AbilityName": "Ability20009",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.249999996309518
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20009,
+      "SkillName": {
+        "Hash": -734398248
+      },
+      "SkillDesc": {
+        "Hash": -594786780
+      },
+      "Level": 3,
+      "AbilityName": "Ability20009",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20009,
+      "SkillName": {
+        "Hash": 1994485107
+      },
+      "SkillDesc": {
+        "Hash": -594786780
+      },
+      "Level": 4,
+      "AbilityName": "Ability20009",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.34999999483332517
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20009,
+      "SkillName": {
+        "Hash": 428401166
+      },
+      "SkillDesc": {
+        "Hash": -594786780
+      },
+      "Level": 5,
+      "AbilityName": "Ability20009",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.3999999940952288
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20010": {
+    "1": {
+      "SkillID": 20010,
+      "SkillName": {
+        "Hash": -1480616736
+      },
+      "SkillDesc": {
+        "Hash": 1777866214
+      },
+      "Level": 1,
+      "AbilityName": "Ability20010",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20010,
+      "SkillName": {
+        "Hash": -1883901263
+      },
+      "SkillDesc": {
+        "Hash": 1777866214
+      },
+      "Level": 2,
+      "AbilityName": "Ability20010",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20010,
+      "SkillName": {
+        "Hash": -317817322
+      },
+      "SkillDesc": {
+        "Hash": 1777866214
+      },
+      "Level": 3,
+      "AbilityName": "Ability20010",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20010,
+      "SkillName": {
+        "Hash": -721101849
+      },
+      "SkillDesc": {
+        "Hash": 1777866214
+      },
+      "Level": 4,
+      "AbilityName": "Ability20010",
+      "ParamList": [
+        {
+          "Value": 0.26999999601427943
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20010,
+      "SkillName": {
+        "Hash": 844982092
+      },
+      "SkillDesc": {
+        "Hash": 1777866214
+      },
+      "Level": 5,
+      "AbilityName": "Ability20010",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20011": {
+    "1": {
+      "SkillID": 20011,
+      "SkillName": {
+        "Hash": 1268469595
+      },
+      "SkillDesc": {
+        "Hash": -951017141
+      },
+      "Level": 1,
+      "AbilityName": "Ability20011",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20011,
+      "SkillName": {
+        "Hash": -297614346
+      },
+      "SkillDesc": {
+        "Hash": -951017141
+      },
+      "Level": 2,
+      "AbilityName": "Ability20011",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20011,
+      "SkillName": {
+        "Hash": -1863698287
+      },
+      "SkillDesc": {
+        "Hash": -951017141
+      },
+      "Level": 3,
+      "AbilityName": "Ability20011",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20011,
+      "SkillName": {
+        "Hash": 865185068
+      },
+      "SkillDesc": {
+        "Hash": -951017141
+      },
+      "Level": 4,
+      "AbilityName": "Ability20011",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20011,
+      "SkillName": {
+        "Hash": -700898873
+      },
+      "SkillDesc": {
+        "Hash": -951017141
+      },
+      "Level": 5,
+      "AbilityName": "Ability20011",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20012": {
+    "1": {
+      "SkillID": 20012,
+      "SkillName": {
+        "Hash": -1762941738
+      },
+      "SkillDesc": {
+        "Hash": 615066800
+      },
+      "Level": 1,
+      "AbilityName": "Ability20012",
+      "ParamList": [
+        {
+          "Value": 3.9999999372269976
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20012,
+      "SkillName": {
+        "Hash": -196857797
+      },
+      "SkillDesc": {
+        "Hash": 615066800
+      },
+      "Level": 2,
+      "AbilityName": "Ability20012",
+      "ParamList": [
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20012,
+      "SkillName": {
+        "Hash": 1369226144
+      },
+      "SkillDesc": {
+        "Hash": 615066800
+      },
+      "Level": 3,
+      "AbilityName": "Ability20012",
+      "ParamList": [
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20012,
+      "SkillName": {
+        "Hash": -1003426851
+      },
+      "SkillDesc": {
+        "Hash": 615066800
+      },
+      "Level": 4,
+      "AbilityName": "Ability20012",
+      "ParamList": [
+        {
+          "Value": 6.9999998901472456
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20012,
+      "SkillName": {
+        "Hash": 562657090
+      },
+      "SkillDesc": {
+        "Hash": 615066800
+      },
+      "Level": 5,
+      "AbilityName": "Ability20012",
+      "ParamList": [
+        {
+          "Value": 7.999999874453995
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20013": {
+    "1": {
+      "SkillID": 20013,
+      "SkillName": {
+        "Hash": 986144593
+      },
+      "SkillDesc": {
+        "Hash": -2113816555
+      },
+      "Level": 1,
+      "AbilityName": "Ability20013",
+      "ParamList": [
+        {
+          "Value": 7.999999874453995
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20013,
+      "SkillName": {
+        "Hash": 1389429120
+      },
+      "SkillDesc": {
+        "Hash": -2113816555
+      },
+      "Level": 2,
+      "AbilityName": "Ability20013",
+      "ParamList": [
+        {
+          "Value": 8.999999858760745
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20013,
+      "SkillName": {
+        "Hash": -176654821
+      },
+      "SkillDesc": {
+        "Hash": -2113816555
+      },
+      "Level": 3,
+      "AbilityName": "Ability20013",
+      "ParamList": [
+        {
+          "Value": 9.999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20013,
+      "SkillName": {
+        "Hash": 582860066
+      },
+      "SkillDesc": {
+        "Hash": -2113816555
+      },
+      "Level": 4,
+      "AbilityName": "Ability20013",
+      "ParamList": [
+        {
+          "Value": 10.999999827374243
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20013,
+      "SkillName": {
+        "Hash": -983223875
+      },
+      "SkillDesc": {
+        "Hash": -2113816555
+      },
+      "Level": 5,
+      "AbilityName": "Ability20013",
+      "ParamList": [
+        {
+          "Value": 11.999999811680993
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20014": {
+    "1": {
+      "SkillID": 20014,
+      "SkillName": {
+        "Hash": -2045266740
+      },
+      "SkillDesc": {
+        "Hash": -191502254
+      },
+      "Level": 1,
+      "AbilityName": "Ability20014",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20014,
+      "SkillName": {
+        "Hash": 1846416029
+      },
+      "SkillDesc": {
+        "Hash": -191502254
+      },
+      "Level": 2,
+      "AbilityName": "Ability20014",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20014,
+      "SkillName": {
+        "Hash": -882467326
+      },
+      "SkillDesc": {
+        "Hash": -191502254
+      },
+      "Level": 3,
+      "AbilityName": "Ability20014",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20014,
+      "SkillName": {
+        "Hash": -1641982213
+      },
+      "SkillDesc": {
+        "Hash": -191502254
+      },
+      "Level": 4,
+      "AbilityName": "Ability20014",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20014,
+      "SkillName": {
+        "Hash": -75898272
+      },
+      "SkillDesc": {
+        "Hash": -191502254
+      },
+      "Level": 5,
+      "AbilityName": "Ability20014",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20015": {
+    "1": {
+      "SkillID": 20015,
+      "SkillName": {
+        "Hash": 703819591
+      },
+      "SkillDesc": {
+        "Hash": 1374581687
+      },
+      "Level": 1,
+      "AbilityName": "Ability20015",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20015,
+      "SkillName": {
+        "Hash": -862264350
+      },
+      "SkillDesc": {
+        "Hash": 1374581687
+      },
+      "Level": 2,
+      "AbilityName": "Ability20015",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20015,
+      "SkillName": {
+        "Hash": 1866619005
+      },
+      "SkillDesc": {
+        "Hash": 1374581687
+      },
+      "Level": 3,
+      "AbilityName": "Ability20015",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20015,
+      "SkillName": {
+        "Hash": -55695296
+      },
+      "SkillDesc": {
+        "Hash": 1374581687
+      },
+      "Level": 4,
+      "AbilityName": "Ability20015",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20015,
+      "SkillName": {
+        "Hash": -1621779237
+      },
+      "SkillDesc": {
+        "Hash": 1374581687
+      },
+      "Level": 5,
+      "AbilityName": "Ability20015",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20016": {
+    "1": {
+      "SkillID": 20016,
+      "SkillName": {
+        "Hash": 1967375554
+      },
+      "SkillDesc": {
+        "Hash": -1354301668
+      },
+      "Level": 1,
+      "AbilityName": "Ability20016",
+      "ParamList": [
+        {
+          "Value": 0.7999999881904576
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20016,
+      "SkillName": {
+        "Hash": -761507801
+      },
+      "SkillDesc": {
+        "Hash": -1354301668
+      },
+      "Level": 2,
+      "AbilityName": "Ability20016",
+      "ParamList": [
+        {
+          "Value": 0.7999999881904576
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20016,
+      "SkillName": {
+        "Hash": 804576140
+      },
+      "SkillDesc": {
+        "Hash": -1354301668
+      },
+      "Level": 3,
+      "AbilityName": "Ability20016",
+      "ParamList": [
+        {
+          "Value": 0.7999999881904576
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20016,
+      "SkillName": {
+        "Hash": -1924307215
+      },
+      "SkillDesc": {
+        "Hash": -1354301668
+      },
+      "Level": 4,
+      "AbilityName": "Ability20016",
+      "ParamList": [
+        {
+          "Value": 0.7999999881904576
+        },
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20016,
+      "SkillName": {
+        "Hash": -358223274
+      },
+      "SkillDesc": {
+        "Hash": -1354301668
+      },
+      "Level": 5,
+      "AbilityName": "Ability20016",
+      "ParamList": [
+        {
+          "Value": 0.7999999881904576
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20017": {
+    "1": {
+      "SkillID": 20017,
+      "SkillName": {
+        "Hash": 421494589
+      },
+      "SkillDesc": {
+        "Hash": 211782273
+      },
+      "Level": 1,
+      "AbilityName": "Ability20017",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20017,
+      "SkillName": {
+        "Hash": 824779116
+      },
+      "SkillDesc": {
+        "Hash": 211782273
+      },
+      "Level": 2,
+      "AbilityName": "Ability20017",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20017,
+      "SkillName": {
+        "Hash": -741304825
+      },
+      "SkillDesc": {
+        "Hash": 211782273
+      },
+      "Level": 3,
+      "AbilityName": "Ability20017",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20017,
+      "SkillName": {
+        "Hash": -338020298
+      },
+      "SkillDesc": {
+        "Hash": 211782273
+      },
+      "Level": 4,
+      "AbilityName": "Ability20017",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20017,
+      "SkillName": {
+        "Hash": -1904104239
+      },
+      "SkillDesc": {
+        "Hash": 211782273
+      },
+      "Level": 5,
+      "AbilityName": "Ability20017",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20018": {
+    "1": {
+      "SkillID": 20018,
+      "SkillName": {
+        "Hash": -351316728
+      },
+      "SkillDesc": {
+        "Hash": 2134096574
+      },
+      "Level": 1,
+      "AbilityName": "Ability20018",
+      "ParamList": [
+        {
+          "Value": 0.5999999911428432
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20018,
+      "SkillName": {
+        "Hash": -754601255
+      },
+      "SkillDesc": {
+        "Hash": 2134096574
+      },
+      "Level": 2,
+      "AbilityName": "Ability20018",
+      "ParamList": [
+        {
+          "Value": 0.749999988928554
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20018,
+      "SkillName": {
+        "Hash": 811482686
+      },
+      "SkillDesc": {
+        "Hash": 2134096574
+      },
+      "Level": 3,
+      "AbilityName": "Ability20018",
+      "ParamList": [
+        {
+          "Value": 0.8999999867142647
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20018,
+      "SkillName": {
+        "Hash": 408198159
+      },
+      "SkillDesc": {
+        "Hash": 2134096574
+      },
+      "Level": 4,
+      "AbilityName": "Ability20018",
+      "ParamList": [
+        {
+          "Value": 1.049999983568653
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20018,
+      "SkillName": {
+        "Hash": 1974282100
+      },
+      "SkillDesc": {
+        "Hash": 2134096574
+      },
+      "Level": 5,
+      "AbilityName": "Ability20018",
+      "ParamList": [
+        {
+          "Value": 1.1999999813543638
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20019": {
+    "1": {
+      "SkillID": 20019,
+      "SkillName": {
+        "Hash": -1897197693
+      },
+      "SkillDesc": {
+        "Hash": -594786781
+      },
+      "Level": 1,
+      "AbilityName": "Ability20019",
+      "ParamList": [
+        {
+          "Value": 11.999999811680993
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20019,
+      "SkillName": {
+        "Hash": 831685662
+      },
+      "SkillDesc": {
+        "Hash": -594786781
+      },
+      "Level": 2,
+      "AbilityName": "Ability20019",
+      "ParamList": [
+        {
+          "Value": 13.999999780294491
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20019,
+      "SkillName": {
+        "Hash": -734398279
+      },
+      "SkillDesc": {
+        "Hash": -594786781
+      },
+      "Level": 3,
+      "AbilityName": "Ability20019",
+      "ParamList": [
+        {
+          "Value": 15.99999974890799
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20019,
+      "SkillName": {
+        "Hash": 1994485076
+      },
+      "SkillDesc": {
+        "Hash": -594786781
+      },
+      "Level": 4,
+      "AbilityName": "Ability20019",
+      "ParamList": [
+        {
+          "Value": 17.99999971752149
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20019,
+      "SkillName": {
+        "Hash": 428401135
+      },
+      "SkillDesc": {
+        "Hash": -594786781
+      },
+      "Level": 5,
+      "AbilityName": "Ability20019",
+      "ParamList": [
+        {
+          "Value": 19.999999686134988
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "20020": {
+    "1": {
+      "SkillID": 20020,
+      "SkillName": {
+        "Hash": -1480616895
+      },
+      "SkillDesc": {
+        "Hash": 1777866213
+      },
+      "Level": 1,
+      "AbilityName": "Ability20020",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 20020,
+      "SkillName": {
+        "Hash": -1883901422
+      },
+      "SkillDesc": {
+        "Hash": 1777866213
+      },
+      "Level": 2,
+      "AbilityName": "Ability20020",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 20020,
+      "SkillName": {
+        "Hash": -317817481
+      },
+      "SkillDesc": {
+        "Hash": 1777866213
+      },
+      "Level": 3,
+      "AbilityName": "Ability20020",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 20020,
+      "SkillName": {
+        "Hash": -721102008
+      },
+      "SkillDesc": {
+        "Hash": 1777866213
+      },
+      "Level": 4,
+      "AbilityName": "Ability20020",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 20020,
+      "SkillName": {
+        "Hash": 844981933
+      },
+      "SkillDesc": {
+        "Hash": 1777866213
+      },
+      "Level": 5,
+      "AbilityName": "Ability20020",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21000": {
+    "1": {
+      "SkillID": 21000,
+      "SkillName": {
+        "Hash": -1480615680
+      },
+      "SkillDesc": {
+        "Hash": 1777866118
+      },
+      "Level": 1,
+      "AbilityName": "Ability21000",
+      "ParamList": [
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.07999999881904576
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21000,
+      "SkillName": {
+        "Hash": -1883900207
+      },
+      "SkillDesc": {
+        "Hash": 1777866118
+      },
+      "Level": 2,
+      "AbilityName": "Ability21000",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.0999999985238072
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21000,
+      "SkillName": {
+        "Hash": -317816266
+      },
+      "SkillDesc": {
+        "Hash": 1777866118
+      },
+      "Level": 3,
+      "AbilityName": "Ability21000",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.11999999822856863
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21000,
+      "SkillName": {
+        "Hash": -721100793
+      },
+      "SkillDesc": {
+        "Hash": 1777866118
+      },
+      "Level": 4,
+      "AbilityName": "Ability21000",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.13999999793333007
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21000,
+      "SkillName": {
+        "Hash": 844983148
+      },
+      "SkillDesc": {
+        "Hash": 1777866118
+      },
+      "Level": 5,
+      "AbilityName": "Ability21000",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    }
+  },
+  "21001": {
+    "1": {
+      "SkillID": 21001,
+      "SkillName": {
+        "Hash": 1268470651
+      },
+      "SkillDesc": {
+        "Hash": -951017237
+      },
+      "Level": 1,
+      "AbilityName": "Ability21001",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21001,
+      "SkillName": {
+        "Hash": -297613290
+      },
+      "SkillDesc": {
+        "Hash": -951017237
+      },
+      "Level": 2,
+      "AbilityName": "Ability21001",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21001,
+      "SkillName": {
+        "Hash": -1863697231
+      },
+      "SkillDesc": {
+        "Hash": -951017237
+      },
+      "Level": 3,
+      "AbilityName": "Ability21001",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21001,
+      "SkillName": {
+        "Hash": 865186124
+      },
+      "SkillDesc": {
+        "Hash": -951017237
+      },
+      "Level": 4,
+      "AbilityName": "Ability21001",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21001,
+      "SkillName": {
+        "Hash": -700897817
+      },
+      "SkillDesc": {
+        "Hash": -951017237
+      },
+      "Level": 5,
+      "AbilityName": "Ability21001",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21002": {
+    "1": {
+      "SkillID": 21002,
+      "SkillName": {
+        "Hash": -1762940682
+      },
+      "SkillDesc": {
+        "Hash": 615066704
+      },
+      "Level": 1,
+      "AbilityName": "Ability21002",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.07999999881904576
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21002,
+      "SkillName": {
+        "Hash": -196856741
+      },
+      "SkillDesc": {
+        "Hash": 615066704
+      },
+      "Level": 2,
+      "AbilityName": "Ability21002",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.08999999867142648
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.17999999734285296
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21002,
+      "SkillName": {
+        "Hash": 1369227200
+      },
+      "SkillDesc": {
+        "Hash": 615066704
+      },
+      "Level": 3,
+      "AbilityName": "Ability21002",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.0999999985238072
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21002,
+      "SkillName": {
+        "Hash": -1003425795
+      },
+      "SkillDesc": {
+        "Hash": 615066704
+      },
+      "Level": 4,
+      "AbilityName": "Ability21002",
+      "ParamList": [
+        {
+          "Value": 0.21999999675237583
+        },
+        {
+          "Value": 0.10999999837618792
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.21999999675237583
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21002,
+      "SkillName": {
+        "Hash": 562658146
+      },
+      "SkillDesc": {
+        "Hash": 615066704
+      },
+      "Level": 5,
+      "AbilityName": "Ability21002",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    }
+  },
+  "21003": {
+    "1": {
+      "SkillID": 21003,
+      "SkillName": {
+        "Hash": 986145649
+      },
+      "SkillDesc": {
+        "Hash": -2113816651
+      },
+      "Level": 1,
+      "AbilityName": "Ability21003",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21003,
+      "SkillName": {
+        "Hash": 1389430176
+      },
+      "SkillDesc": {
+        "Hash": -2113816651
+      },
+      "Level": 2,
+      "AbilityName": "Ability21003",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21003,
+      "SkillName": {
+        "Hash": -176653765
+      },
+      "SkillDesc": {
+        "Hash": -2113816651
+      },
+      "Level": 3,
+      "AbilityName": "Ability21003",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21003,
+      "SkillName": {
+        "Hash": 582861122
+      },
+      "SkillDesc": {
+        "Hash": -2113816651
+      },
+      "Level": 4,
+      "AbilityName": "Ability21003",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21003,
+      "SkillName": {
+        "Hash": -983222819
+      },
+      "SkillDesc": {
+        "Hash": -2113816651
+      },
+      "Level": 5,
+      "AbilityName": "Ability21003",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "21004": {
+    "1": {
+      "SkillID": 21004,
+      "SkillName": {
+        "Hash": -2045265684
+      },
+      "SkillDesc": {
+        "Hash": -191502350
+      },
+      "Level": 1,
+      "AbilityName": "Ability21004",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 3.9999999372269976
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21004,
+      "SkillName": {
+        "Hash": 1846417085
+      },
+      "SkillDesc": {
+        "Hash": -191502350
+      },
+      "Level": 2,
+      "AbilityName": "Ability21004",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.34999999483332517
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21004,
+      "SkillName": {
+        "Hash": -882466270
+      },
+      "SkillDesc": {
+        "Hash": -191502350
+      },
+      "Level": 3,
+      "AbilityName": "Ability21004",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.4199999937999902
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21004,
+      "SkillName": {
+        "Hash": -1641981157
+      },
+      "SkillDesc": {
+        "Hash": -191502350
+      },
+      "Level": 4,
+      "AbilityName": "Ability21004",
+      "ParamList": [
+        {
+          "Value": 0.4899999927666553
+        },
+        {
+          "Value": 6.9999998901472456
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.4899999927666553
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21004,
+      "SkillName": {
+        "Hash": -75897216
+      },
+      "SkillDesc": {
+        "Hash": -191502350
+      },
+      "Level": 5,
+      "AbilityName": "Ability21004",
+      "ParamList": [
+        {
+          "Value": 0.5599999917333203
+        },
+        {
+          "Value": 7.999999874453995
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.5599999917333203
+          }
+        }
+      ]
+    }
+  },
+  "21005": {
+    "1": {
+      "SkillID": 21005,
+      "SkillName": {
+        "Hash": 703820647
+      },
+      "SkillDesc": {
+        "Hash": 1374581591
+      },
+      "Level": 1,
+      "AbilityName": "Ability21005",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21005,
+      "SkillName": {
+        "Hash": -862263294
+      },
+      "SkillDesc": {
+        "Hash": 1374581591
+      },
+      "Level": 2,
+      "AbilityName": "Ability21005",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21005,
+      "SkillName": {
+        "Hash": 1866620061
+      },
+      "SkillDesc": {
+        "Hash": 1374581591
+      },
+      "Level": 3,
+      "AbilityName": "Ability21005",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21005,
+      "SkillName": {
+        "Hash": -55694240
+      },
+      "SkillDesc": {
+        "Hash": 1374581591
+      },
+      "Level": 4,
+      "AbilityName": "Ability21005",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21005,
+      "SkillName": {
+        "Hash": -1621778181
+      },
+      "SkillDesc": {
+        "Hash": 1374581591
+      },
+      "Level": 5,
+      "AbilityName": "Ability21005",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21006": {
+    "1": {
+      "SkillID": 21006,
+      "SkillName": {
+        "Hash": 1967376610
+      },
+      "SkillDesc": {
+        "Hash": -1354301764
+      },
+      "Level": 1,
+      "AbilityName": "Ability21006",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21006,
+      "SkillName": {
+        "Hash": -761506745
+      },
+      "SkillDesc": {
+        "Hash": -1354301764
+      },
+      "Level": 2,
+      "AbilityName": "Ability21006",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21006,
+      "SkillName": {
+        "Hash": 804577196
+      },
+      "SkillDesc": {
+        "Hash": -1354301764
+      },
+      "Level": 3,
+      "AbilityName": "Ability21006",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21006,
+      "SkillName": {
+        "Hash": -1924306159
+      },
+      "SkillDesc": {
+        "Hash": -1354301764
+      },
+      "Level": 4,
+      "AbilityName": "Ability21006",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.4199999937999902
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21006,
+      "SkillName": {
+        "Hash": -358222218
+      },
+      "SkillDesc": {
+        "Hash": -1354301764
+      },
+      "Level": 5,
+      "AbilityName": "Ability21006",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.47999999291427453
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21007": {
+    "1": {
+      "SkillID": 21007,
+      "SkillName": {
+        "Hash": 421495645
+      },
+      "SkillDesc": {
+        "Hash": 211782177
+      },
+      "Level": 1,
+      "AbilityName": "Ability21007",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.0999999985238072
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21007,
+      "SkillName": {
+        "Hash": 824780172
+      },
+      "SkillDesc": {
+        "Hash": 211782177
+      },
+      "Level": 2,
+      "AbilityName": "Ability21007",
+      "ParamList": [
+        {
+          "Value": 0.12499999780551303
+        },
+        {
+          "Value": 2.4999999612325348
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.12499999780551303
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21007,
+      "SkillName": {
+        "Hash": -741303769
+      },
+      "SkillDesc": {
+        "Hash": 211782177
+      },
+      "Level": 3,
+      "AbilityName": "Ability21007",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.1499999977857108
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21007,
+      "SkillName": {
+        "Hash": -338019242
+      },
+      "SkillDesc": {
+        "Hash": 211782177
+      },
+      "Level": 4,
+      "AbilityName": "Ability21007",
+      "ParamList": [
+        {
+          "Value": 0.17499999706741665
+        },
+        {
+          "Value": 3.499999945539284
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.17499999706741665
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21007,
+      "SkillName": {
+        "Hash": -1904103183
+      },
+      "SkillDesc": {
+        "Hash": 211782177
+      },
+      "Level": 5,
+      "AbilityName": "Ability21007",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 3.9999999372269976
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    }
+  },
+  "21008": {
+    "1": {
+      "SkillID": 21008,
+      "SkillName": {
+        "Hash": -351315672
+      },
+      "SkillDesc": {
+        "Hash": 2134096478
+      },
+      "Level": 1,
+      "AbilityName": "Ability21008",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21008,
+      "SkillName": {
+        "Hash": -754600199
+      },
+      "SkillDesc": {
+        "Hash": 2134096478
+      },
+      "Level": 2,
+      "AbilityName": "Ability21008",
+      "ParamList": [
+        {
+          "Value": 0.249999996309518
+        },
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.249999996309518
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21008,
+      "SkillName": {
+        "Hash": 811483742
+      },
+      "SkillDesc": {
+        "Hash": 2134096478
+      },
+      "Level": 3,
+      "AbilityName": "Ability21008",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.2999999955714216
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21008,
+      "SkillName": {
+        "Hash": 408199215
+      },
+      "SkillDesc": {
+        "Hash": 2134096478
+      },
+      "Level": 4,
+      "AbilityName": "Ability21008",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 0.4199999937999902
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.34999999483332517
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21008,
+      "SkillName": {
+        "Hash": 1974283156
+      },
+      "SkillDesc": {
+        "Hash": 2134096478
+      },
+      "Level": 5,
+      "AbilityName": "Ability21008",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.47999999291427453
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.3999999940952288
+          }
+        }
+      ]
+    }
+  },
+  "21009": {
+    "1": {
+      "SkillID": 21009,
+      "SkillName": {
+        "Hash": -1897196637
+      },
+      "SkillDesc": {
+        "Hash": -594786877
+      },
+      "Level": 1,
+      "AbilityName": "Ability21009",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21009,
+      "SkillName": {
+        "Hash": 831686718
+      },
+      "SkillDesc": {
+        "Hash": -594786877
+      },
+      "Level": 2,
+      "AbilityName": "Ability21009",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21009,
+      "SkillName": {
+        "Hash": -734397223
+      },
+      "SkillDesc": {
+        "Hash": -594786877
+      },
+      "Level": 3,
+      "AbilityName": "Ability21009",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21009,
+      "SkillName": {
+        "Hash": 1994486132
+      },
+      "SkillDesc": {
+        "Hash": -594786877
+      },
+      "Level": 4,
+      "AbilityName": "Ability21009",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.21999999675237583
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21009,
+      "SkillName": {
+        "Hash": 428402191
+      },
+      "SkillDesc": {
+        "Hash": -594786877
+      },
+      "Level": 5,
+      "AbilityName": "Ability21009",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21010": {
+    "1": {
+      "SkillID": 21010,
+      "SkillName": {
+        "Hash": -1480615777
+      },
+      "SkillDesc": {
+        "Hash": 1777866119
+      },
+      "Level": 1,
+      "AbilityName": "Ability21010",
+      "ParamList": [
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21010,
+      "SkillName": {
+        "Hash": -1883900304
+      },
+      "SkillDesc": {
+        "Hash": 1777866119
+      },
+      "Level": 2,
+      "AbilityName": "Ability21010",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21010,
+      "SkillName": {
+        "Hash": -317816363
+      },
+      "SkillDesc": {
+        "Hash": 1777866119
+      },
+      "Level": 3,
+      "AbilityName": "Ability21010",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21010,
+      "SkillName": {
+        "Hash": -721100890
+      },
+      "SkillDesc": {
+        "Hash": 1777866119
+      },
+      "Level": 4,
+      "AbilityName": "Ability21010",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21010,
+      "SkillName": {
+        "Hash": 844983051
+      },
+      "SkillDesc": {
+        "Hash": 1777866119
+      },
+      "Level": 5,
+      "AbilityName": "Ability21010",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21011": {
+    "1": {
+      "SkillID": 21011,
+      "SkillName": {
+        "Hash": 1268470554
+      },
+      "SkillDesc": {
+        "Hash": -951017236
+      },
+      "Level": 1,
+      "AbilityName": "Ability21011",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21011,
+      "SkillName": {
+        "Hash": -297613387
+      },
+      "SkillDesc": {
+        "Hash": -951017236
+      },
+      "Level": 2,
+      "AbilityName": "Ability21011",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21011,
+      "SkillName": {
+        "Hash": -1863697328
+      },
+      "SkillDesc": {
+        "Hash": -951017236
+      },
+      "Level": 3,
+      "AbilityName": "Ability21011",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21011,
+      "SkillName": {
+        "Hash": 865186027
+      },
+      "SkillDesc": {
+        "Hash": -951017236
+      },
+      "Level": 4,
+      "AbilityName": "Ability21011",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21011,
+      "SkillName": {
+        "Hash": -700897914
+      },
+      "SkillDesc": {
+        "Hash": -951017236
+      },
+      "Level": 5,
+      "AbilityName": "Ability21011",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21012": {
+    "1": {
+      "SkillID": 21012,
+      "SkillName": {
+        "Hash": -1762940779
+      },
+      "SkillDesc": {
+        "Hash": 615066705
+      },
+      "Level": 1,
+      "AbilityName": "Ability21012",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21012,
+      "SkillName": {
+        "Hash": -196856838
+      },
+      "SkillDesc": {
+        "Hash": 615066705
+      },
+      "Level": 2,
+      "AbilityName": "Ability21012",
+      "ParamList": [
+        {
+          "Value": 0.249999996309518
+        },
+        {
+          "Value": 0.249999996309518
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.249999996309518
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21012,
+      "SkillName": {
+        "Hash": 1369227103
+      },
+      "SkillDesc": {
+        "Hash": 615066705
+      },
+      "Level": 3,
+      "AbilityName": "Ability21012",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.2999999955714216
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21012,
+      "SkillName": {
+        "Hash": -1003425892
+      },
+      "SkillDesc": {
+        "Hash": 615066705
+      },
+      "Level": 4,
+      "AbilityName": "Ability21012",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 0.34999999483332517
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.34999999483332517
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21012,
+      "SkillName": {
+        "Hash": 562658049
+      },
+      "SkillDesc": {
+        "Hash": 615066705
+      },
+      "Level": 5,
+      "AbilityName": "Ability21012",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.3999999940952288
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.3999999940952288
+          }
+        }
+      ]
+    }
+  },
+  "21014": {
+    "1": {
+      "SkillID": 21014,
+      "SkillName": {
+        "Hash": -2045265781
+      },
+      "SkillDesc": {
+        "Hash": -191502349
+      },
+      "Level": 1,
+      "AbilityName": "Ability21014",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.32999999512856376
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21014,
+      "SkillName": {
+        "Hash": 1846416988
+      },
+      "SkillDesc": {
+        "Hash": -191502349
+      },
+      "Level": 2,
+      "AbilityName": "Ability21014",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21014,
+      "SkillName": {
+        "Hash": -882466367
+      },
+      "SkillDesc": {
+        "Hash": -191502349
+      },
+      "Level": 3,
+      "AbilityName": "Ability21014",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.3899999942428481
+        },
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21014,
+      "SkillName": {
+        "Hash": -1641981254
+      },
+      "SkillDesc": {
+        "Hash": -191502349
+      },
+      "Level": 4,
+      "AbilityName": "Ability21014",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21014,
+      "SkillName": {
+        "Hash": -75897313
+      },
+      "SkillDesc": {
+        "Hash": -191502349
+      },
+      "Level": 5,
+      "AbilityName": "Ability21014",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.44999999335713237
+        },
+        {
+          "Value": 0.26999999601427943
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "21015": {
+    "1": {
+      "SkillID": 21015,
+      "SkillName": {
+        "Hash": 703820550
+      },
+      "SkillDesc": {
+        "Hash": 1374581592
+      },
+      "Level": 1,
+      "AbilityName": "Ability21015",
+      "ParamList": [
+        {
+          "Value": 0.5999999911428432
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21015,
+      "SkillName": {
+        "Hash": -862263391
+      },
+      "SkillDesc": {
+        "Hash": 1374581592
+      },
+      "Level": 2,
+      "AbilityName": "Ability21015",
+      "ParamList": [
+        {
+          "Value": 0.6999999896666503
+        },
+        {
+          "Value": 0.12999999808094936
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21015,
+      "SkillName": {
+        "Hash": 1866619964
+      },
+      "SkillDesc": {
+        "Hash": 1374581592
+      },
+      "Level": 3,
+      "AbilityName": "Ability21015",
+      "ParamList": [
+        {
+          "Value": 0.7999999881904576
+        },
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21015,
+      "SkillName": {
+        "Hash": -55694337
+      },
+      "SkillDesc": {
+        "Hash": 1374581592
+      },
+      "Level": 4,
+      "AbilityName": "Ability21015",
+      "ParamList": [
+        {
+          "Value": 0.8999999867142647
+        },
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21015,
+      "SkillName": {
+        "Hash": -1621778278
+      },
+      "SkillDesc": {
+        "Hash": 1374581592
+      },
+      "Level": 5,
+      "AbilityName": "Ability21015",
+      "ParamList": [
+        {
+          "Value": 0.9999999843067494
+        },
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21016": {
+    "1": {
+      "SkillID": 21016,
+      "SkillName": {
+        "Hash": 1967376513
+      },
+      "SkillDesc": {
+        "Hash": -1354301763
+      },
+      "Level": 1,
+      "AbilityName": "Ability21016",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.9999999843067494
+        },
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21016,
+      "SkillName": {
+        "Hash": -761506842
+      },
+      "SkillDesc": {
+        "Hash": -1354301763
+      },
+      "Level": 2,
+      "AbilityName": "Ability21016",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 1.049999983568653
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21016,
+      "SkillName": {
+        "Hash": 804577099
+      },
+      "SkillDesc": {
+        "Hash": -1354301763
+      },
+      "Level": 3,
+      "AbilityName": "Ability21016",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 1.0999999828305567
+        },
+        {
+          "Value": 0.5999999911428432
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21016,
+      "SkillName": {
+        "Hash": -1924306256
+      },
+      "SkillDesc": {
+        "Hash": -1354301763
+      },
+      "Level": 4,
+      "AbilityName": "Ability21016",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 1.1499999820924602
+        },
+        {
+          "Value": 0.6999999896666503
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21016,
+      "SkillName": {
+        "Hash": -358222315
+      },
+      "SkillDesc": {
+        "Hash": -1354301763
+      },
+      "Level": 5,
+      "AbilityName": "Ability21016",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 1.1999999813543638
+        },
+        {
+          "Value": 0.7999999881904576
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "21017": {
+    "1": {
+      "SkillID": 21017,
+      "SkillName": {
+        "Hash": 421495548
+      },
+      "SkillDesc": {
+        "Hash": 211782178
+      },
+      "Level": 1,
+      "AbilityName": "Ability21017",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21017,
+      "SkillName": {
+        "Hash": 824780075
+      },
+      "SkillDesc": {
+        "Hash": 211782178
+      },
+      "Level": 2,
+      "AbilityName": "Ability21017",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.2999999955714216
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21017,
+      "SkillName": {
+        "Hash": -741303866
+      },
+      "SkillDesc": {
+        "Hash": 211782178
+      },
+      "Level": 3,
+      "AbilityName": "Ability21017",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21017,
+      "SkillName": {
+        "Hash": -338019339
+      },
+      "SkillDesc": {
+        "Hash": 211782178
+      },
+      "Level": 4,
+      "AbilityName": "Ability21017",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 0.4199999937999902
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21017,
+      "SkillName": {
+        "Hash": -1904103280
+      },
+      "SkillDesc": {
+        "Hash": 211782178
+      },
+      "Level": 5,
+      "AbilityName": "Ability21017",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 0.47999999291427453
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21021": {
+    "1": {
+      "SkillID": 21021,
+      "SkillName": {
+        "Hash": 1268470461
+      },
+      "SkillDesc": {
+        "Hash": -951017239
+      },
+      "Level": 1,
+      "AbilityName": "Ability21021",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 7.999999874453995
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21021,
+      "SkillName": {
+        "Hash": -297613480
+      },
+      "SkillDesc": {
+        "Hash": -951017239
+      },
+      "Level": 2,
+      "AbilityName": "Ability21021",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 9.999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21021,
+      "SkillName": {
+        "Hash": -1863697421
+      },
+      "SkillDesc": {
+        "Hash": -951017239
+      },
+      "Level": 3,
+      "AbilityName": "Ability21021",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 11.999999811680993
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21021,
+      "SkillName": {
+        "Hash": 865185934
+      },
+      "SkillDesc": {
+        "Hash": -951017239
+      },
+      "Level": 4,
+      "AbilityName": "Ability21021",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 13.999999780294491
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21021,
+      "SkillName": {
+        "Hash": -700898007
+      },
+      "SkillDesc": {
+        "Hash": -951017239
+      },
+      "Level": 5,
+      "AbilityName": "Ability21021",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 15.99999974890799
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21028": {
+    "1": {
+      "SkillID": 21028,
+      "SkillName": {
+        "Hash": -351315862
+      },
+      "SkillDesc": {
+        "Hash": 2134096476
+      },
+      "Level": 1,
+      "AbilityName": "Ability21028",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.01999999970476144
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21028,
+      "SkillName": {
+        "Hash": -754600389
+      },
+      "SkillDesc": {
+        "Hash": 2134096476
+      },
+      "Level": 2,
+      "AbilityName": "Ability21028",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.024999999281705838
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21028,
+      "SkillName": {
+        "Hash": 811483552
+      },
+      "SkillDesc": {
+        "Hash": 2134096476
+      },
+      "Level": 3,
+      "AbilityName": "Ability21028",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.029999999557142158
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21028,
+      "SkillName": {
+        "Hash": 408199025
+      },
+      "SkillDesc": {
+        "Hash": 2134096476
+      },
+      "Level": 4,
+      "AbilityName": "Ability21028",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.03499999913408656
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21028,
+      "SkillName": {
+        "Hash": 1974282966
+      },
+      "SkillDesc": {
+        "Hash": 2134096476
+      },
+      "Level": 5,
+      "AbilityName": "Ability21028",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.03999999940952288
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "23001": {
+    "1": {
+      "SkillID": 23001,
+      "SkillName": {
+        "Hash": 1268468477
+      },
+      "SkillDesc": {
+        "Hash": -951017303
+      },
+      "Level": 1,
+      "AbilityName": "Ability23001",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 9.999999843067494
+        },
+        {
+          "Value": 0.059999999114284316
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.17999999734285296
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 23001,
+      "SkillName": {
+        "Hash": -297615464
+      },
+      "SkillDesc": {
+        "Hash": -951017303
+      },
+      "Level": 2,
+      "AbilityName": "Ability23001",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 9.999999843067494
+        },
+        {
+          "Value": 0.06999999896666503
+        },
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.2099999968999951
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 23001,
+      "SkillName": {
+        "Hash": -1863699405
+      },
+      "SkillDesc": {
+        "Hash": -951017303
+      },
+      "Level": 3,
+      "AbilityName": "Ability23001",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 9.999999843067494
+        },
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 23001,
+      "SkillName": {
+        "Hash": 865183950
+      },
+      "SkillDesc": {
+        "Hash": -951017303
+      },
+      "Level": 4,
+      "AbilityName": "Ability23001",
+      "ParamList": [
+        {
+          "Value": 0.26999999601427943
+        },
+        {
+          "Value": 9.999999843067494
+        },
+        {
+          "Value": 0.08999999867142648
+        },
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.26999999601427943
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 23001,
+      "SkillName": {
+        "Hash": -700899991
+      },
+      "SkillDesc": {
+        "Hash": -951017303
+      },
+      "Level": 5,
+      "AbilityName": "Ability23001",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 9.999999843067494
+        },
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 5.999999905840497
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.2999999955714216
+          }
+        }
+      ]
+    }
+  },
+  "23003": {
+    "1": {
+      "SkillID": 23003,
+      "SkillName": {
+        "Hash": 986143475
+      },
+      "SkillDesc": {
+        "Hash": -2113816717
+      },
+      "Level": 1,
+      "AbilityName": "Ability23003",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.0999999985238072
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 23003,
+      "SkillName": {
+        "Hash": 1389428002
+      },
+      "SkillDesc": {
+        "Hash": -2113816717
+      },
+      "Level": 2,
+      "AbilityName": "Ability23003",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.11999999822856863
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 23003,
+      "SkillName": {
+        "Hash": -176655939
+      },
+      "SkillDesc": {
+        "Hash": -2113816717
+      },
+      "Level": 3,
+      "AbilityName": "Ability23003",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.13999999793333007
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 23003,
+      "SkillName": {
+        "Hash": 582858948
+      },
+      "SkillDesc": {
+        "Hash": -2113816717
+      },
+      "Level": 4,
+      "AbilityName": "Ability23003",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.44999999335713237
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 23003,
+      "SkillName": {
+        "Hash": -983224993
+      },
+      "SkillDesc": {
+        "Hash": -2113816717
+      },
+      "Level": 5,
+      "AbilityName": "Ability23003",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "SPRatioBase",
+          "Value": {
+            "Value": 0.17999999734285296
+          }
+        }
+      ]
+    }
+  },
+  "23004": {
+    "1": {
+      "SkillID": 23004,
+      "SkillName": {
+        "Hash": -2045267858
+      },
+      "SkillDesc": {
+        "Hash": -191502416
+      },
+      "Level": 1,
+      "AbilityName": "Ability23004",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 23004,
+      "SkillName": {
+        "Hash": 1846414911
+      },
+      "SkillDesc": {
+        "Hash": -191502416
+      },
+      "Level": 2,
+      "AbilityName": "Ability23004",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 23004,
+      "SkillName": {
+        "Hash": -882468444
+      },
+      "SkillDesc": {
+        "Hash": -191502416
+      },
+      "Level": 3,
+      "AbilityName": "Ability23004",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.31999999527618306
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 23004,
+      "SkillName": {
+        "Hash": -1641983331
+      },
+      "SkillDesc": {
+        "Hash": -191502416
+      },
+      "Level": 4,
+      "AbilityName": "Ability23004",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.26999999601427943
+        },
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 23004,
+      "SkillName": {
+        "Hash": -75899390
+      },
+      "SkillDesc": {
+        "Hash": -191502416
+      },
+      "Level": 5,
+      "AbilityName": "Ability23004",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.3999999940952288
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "23005": {
+    "1": {
+      "SkillID": 23005,
+      "SkillName": {
+        "Hash": 703818473
+      },
+      "SkillDesc": {
+        "Hash": 1374581525
+      },
+      "Level": 1,
+      "AbilityName": "Ability23005",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        },
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 23005,
+      "SkillName": {
+        "Hash": -862265468
+      },
+      "SkillDesc": {
+        "Hash": 1374581525
+      },
+      "Level": 2,
+      "AbilityName": "Ability23005",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        },
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 23005,
+      "SkillName": {
+        "Hash": 1866617887
+      },
+      "SkillDesc": {
+        "Hash": 1374581525
+      },
+      "Level": 3,
+      "AbilityName": "Ability23005",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.31999999527618306
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        },
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 23005,
+      "SkillName": {
+        "Hash": -55696414
+      },
+      "SkillDesc": {
+        "Hash": 1374581525
+      },
+      "Level": 4,
+      "AbilityName": "Ability23005",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.3599999946857059
+          }
+        },
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.3599999946857059
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 23005,
+      "SkillName": {
+        "Hash": -1621780355
+      },
+      "SkillDesc": {
+        "Hash": 1374581525
+      },
+      "Level": 5,
+      "AbilityName": "Ability23005",
+      "ParamList": [
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.3999999940952288
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.3999999940952288
+          }
+        },
+        {
+          "PropertyType": "StatusProbabilityBase",
+          "Value": {
+            "Value": 0.3999999940952288
+          }
+        }
+      ]
+    }
+  },
+  "23012": {
+    "1": {
+      "SkillID": 23012,
+      "SkillName": {
+        "Hash": -1762942953
+      },
+      "SkillDesc": {
+        "Hash": 615066639
+      },
+      "Level": 1,
+      "AbilityName": "Ability23012",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.9999999843067494
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.2999999955714216
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 23012,
+      "SkillName": {
+        "Hash": -196859012
+      },
+      "SkillDesc": {
+        "Hash": 615066639
+      },
+      "Level": 2,
+      "AbilityName": "Ability23012",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 0.9999999843067494
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.34999999483332517
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 23012,
+      "SkillName": {
+        "Hash": 1369224929
+      },
+      "SkillDesc": {
+        "Hash": 615066639
+      },
+      "Level": 3,
+      "AbilityName": "Ability23012",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 0.9999999843067494
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.3999999940952288
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 23012,
+      "SkillName": {
+        "Hash": -1003428066
+      },
+      "SkillDesc": {
+        "Hash": 615066639
+      },
+      "Level": 4,
+      "AbilityName": "Ability23012",
+      "ParamList": [
+        {
+          "Value": 0.44999999335713237
+        },
+        {
+          "Value": 0.5399999920285589
+        },
+        {
+          "Value": 0.9999999843067494
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.44999999335713237
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 23012,
+      "SkillName": {
+        "Hash": 562655875
+      },
+      "SkillDesc": {
+        "Hash": 615066639
+      },
+      "Level": 5,
+      "AbilityName": "Ability23012",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.5999999911428432
+        },
+        {
+          "Value": 0.9999999843067494
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.499999992619036
+          }
+        }
+      ]
+    }
+  },
+  "23013": {
+    "1": {
+      "SkillID": 23013,
+      "SkillName": {
+        "Hash": 986143378
+      },
+      "SkillDesc": {
+        "Hash": -2113816716
+      },
+      "Level": 1,
+      "AbilityName": "Ability23013",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.17999999734285296
+          }
+        },
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.11999999822856863
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 23013,
+      "SkillName": {
+        "Hash": 1389427905
+      },
+      "SkillDesc": {
+        "Hash": -2113816716
+      },
+      "Level": 2,
+      "AbilityName": "Ability23013",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 0.4199999937999902
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.2099999968999951
+          }
+        },
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.13999999793333007
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 23013,
+      "SkillName": {
+        "Hash": -176656036
+      },
+      "SkillDesc": {
+        "Hash": -2113816716
+      },
+      "Level": 3,
+      "AbilityName": "Ability23013",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.47999999291427453
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        },
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 23013,
+      "SkillName": {
+        "Hash": 582858851
+      },
+      "SkillDesc": {
+        "Hash": -2113816716
+      },
+      "Level": 4,
+      "AbilityName": "Ability23013",
+      "ParamList": [
+        {
+          "Value": 0.26999999601427943
+        },
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.5399999920285589
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.26999999601427943
+          }
+        },
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.17999999734285296
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 23013,
+      "SkillName": {
+        "Hash": -983225090
+      },
+      "SkillDesc": {
+        "Hash": -2113816716
+      },
+      "Level": 5,
+      "AbilityName": "Ability23013",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.5999999911428432
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "HPAddedRatio",
+          "Value": {
+            "Value": 0.2999999955714216
+          }
+        },
+        {
+          "PropertyType": "HealRatioBase",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    }
+  },
+  "24000": {
+    "1": {
+      "SkillID": 24000,
+      "SkillName": {
+        "Hash": -1480612357
+      },
+      "SkillDesc": {
+        "Hash": 1777866347
+      },
+      "Level": 1,
+      "AbilityName": "Ability24000",
+      "ParamList": [
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 3.9999999372269976
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 24000,
+      "SkillName": {
+        "Hash": -1883896884
+      },
+      "SkillDesc": {
+        "Hash": 1777866347
+      },
+      "Level": 2,
+      "AbilityName": "Ability24000",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 3.9999999372269976
+        },
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 24000,
+      "SkillName": {
+        "Hash": -317812943
+      },
+      "SkillDesc": {
+        "Hash": 1777866347
+      },
+      "Level": 3,
+      "AbilityName": "Ability24000",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 3.9999999372269976
+        },
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 24000,
+      "SkillName": {
+        "Hash": -721097470
+      },
+      "SkillDesc": {
+        "Hash": 1777866347
+      },
+      "Level": 4,
+      "AbilityName": "Ability24000",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 3.9999999372269976
+        },
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 24000,
+      "SkillName": {
+        "Hash": 844986471
+      },
+      "SkillDesc": {
+        "Hash": 1777866347
+      },
+      "Level": 5,
+      "AbilityName": "Ability24000",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 3.9999999372269976
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "24001": {
+    "1": {
+      "SkillID": 24001,
+      "SkillName": {
+        "Hash": 1268473974
+      },
+      "SkillDesc": {
+        "Hash": -951017008
+      },
+      "Level": 1,
+      "AbilityName": "Ability24001",
+      "ParamList": [
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.07999999881904576
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 24001,
+      "SkillName": {
+        "Hash": -297609967
+      },
+      "SkillDesc": {
+        "Hash": -951017008
+      },
+      "Level": 2,
+      "AbilityName": "Ability24001",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.249999996309518
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.0999999985238072
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 24001,
+      "SkillName": {
+        "Hash": -1863693908
+      },
+      "SkillDesc": {
+        "Hash": -951017008
+      },
+      "Level": 3,
+      "AbilityName": "Ability24001",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.11999999822856863
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 24001,
+      "SkillName": {
+        "Hash": 865189447
+      },
+      "SkillDesc": {
+        "Hash": -951017008
+      },
+      "Level": 4,
+      "AbilityName": "Ability24001",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.13999999793333007
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 24001,
+      "SkillName": {
+        "Hash": -700894494
+      },
+      "SkillDesc": {
+        "Hash": -951017008
+      },
+      "Level": 5,
+      "AbilityName": "Ability24001",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 1.9999999686134988
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    }
+  },
+  "24002": {
+    "1": {
+      "SkillID": 24002,
+      "SkillName": {
+        "Hash": -1762937359
+      },
+      "SkillDesc": {
+        "Hash": 615066933
+      },
+      "Level": 1,
+      "AbilityName": "Ability24002",
+      "ParamList": [
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 2.9999999529202483
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.07999999881904576
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 24002,
+      "SkillName": {
+        "Hash": -196853418
+      },
+      "SkillDesc": {
+        "Hash": 615066933
+      },
+      "Level": 2,
+      "AbilityName": "Ability24002",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 2.9999999529202483
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.0999999985238072
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 24002,
+      "SkillName": {
+        "Hash": 1369230523
+      },
+      "SkillDesc": {
+        "Hash": 615066933
+      },
+      "Level": 3,
+      "AbilityName": "Ability24002",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 2.9999999529202483
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.11999999822856863
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 24002,
+      "SkillName": {
+        "Hash": -1003422472
+      },
+      "SkillDesc": {
+        "Hash": 615066933
+      },
+      "Level": 4,
+      "AbilityName": "Ability24002",
+      "ParamList": [
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 2.9999999529202483
+        },
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.13999999793333007
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 24002,
+      "SkillName": {
+        "Hash": 562661469
+      },
+      "SkillDesc": {
+        "Hash": 615066933
+      },
+      "Level": 5,
+      "AbilityName": "Ability24002",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 1.9999999686134988
+        },
+        {
+          "Value": 2.9999999529202483
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "StatusResistanceBase",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    }
+  },
+  "29000": {
+    "1": {
+      "SkillID": 29000,
+      "SkillName": {
+        "Hash": -1480606984
+      },
+      "SkillDesc": {
+        "Hash": 1777865854
+      },
+      "Level": 1,
+      "AbilityName": "Ability29000",
+      "ParamList": [],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 29000,
+      "SkillName": {
+        "Hash": -1883891511
+      },
+      "SkillDesc": {
+        "Hash": 1777865854
+      },
+      "Level": 2,
+      "AbilityName": "Ability29000",
+      "ParamList": [],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 29000,
+      "SkillName": {
+        "Hash": -317807570
+      },
+      "SkillDesc": {
+        "Hash": 1777865854
+      },
+      "Level": 3,
+      "AbilityName": "Ability29000",
+      "ParamList": [],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 29000,
+      "SkillName": {
+        "Hash": -721092097
+      },
+      "SkillDesc": {
+        "Hash": 1777865854
+      },
+      "Level": 4,
+      "AbilityName": "Ability29000",
+      "ParamList": [],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 29000,
+      "SkillName": {
+        "Hash": 844991844
+      },
+      "SkillDesc": {
+        "Hash": 1777865854
+      },
+      "Level": 5,
+      "AbilityName": "Ability29000",
+      "ParamList": [],
+      "AbilityProperty": []
+    }
+  },
+  "21013": {
+    "1": {
+      "SkillID": 21013,
+      "SkillName": {
+        "Hash": 986145552
+      },
+      "SkillDesc": {
+        "Hash": -2113816650
+      },
+      "Level": 1,
+      "AbilityName": "Ability21013",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 19.999999686134988
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21013,
+      "SkillName": {
+        "Hash": 1389430079
+      },
+      "SkillDesc": {
+        "Hash": -2113816650
+      },
+      "Level": 2,
+      "AbilityName": "Ability21013",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 22.999999639055236
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21013,
+      "SkillName": {
+        "Hash": -176653862
+      },
+      "SkillDesc": {
+        "Hash": -2113816650
+      },
+      "Level": 3,
+      "AbilityName": "Ability21013",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 25.999999591975484
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21013,
+      "SkillName": {
+        "Hash": 582861025
+      },
+      "SkillDesc": {
+        "Hash": -2113816650
+      },
+      "Level": 4,
+      "AbilityName": "Ability21013",
+      "ParamList": [
+        {
+          "Value": 0.5599999917333203
+        },
+        {
+          "Value": 28.999999544895733
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21013,
+      "SkillName": {
+        "Hash": -983222916
+      },
+      "SkillDesc": {
+        "Hash": -2113816650
+      },
+      "Level": 5,
+      "AbilityName": "Ability21013",
+      "ParamList": [
+        {
+          "Value": 0.6399999905523661
+        },
+        {
+          "Value": 31.99999949781598
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "23000": {
+    "1": {
+      "SkillID": 23000,
+      "SkillName": {
+        "Hash": -1480617854
+      },
+      "SkillDesc": {
+        "Hash": 1777866052
+      },
+      "Level": 1,
+      "AbilityName": "Ability23000",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.08999999867142648
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 23000,
+      "SkillName": {
+        "Hash": -1883902381
+      },
+      "SkillDesc": {
+        "Hash": 1777866052
+      },
+      "Level": 2,
+      "AbilityName": "Ability23000",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 0.1049999981007516
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 23000,
+      "SkillName": {
+        "Hash": -317818440
+      },
+      "SkillDesc": {
+        "Hash": 1777866052
+      },
+      "Level": 3,
+      "AbilityName": "Ability23000",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 23000,
+      "SkillName": {
+        "Hash": -721102967
+      },
+      "SkillDesc": {
+        "Hash": 1777866052
+      },
+      "Level": 4,
+      "AbilityName": "Ability23000",
+      "ParamList": [
+        {
+          "Value": 0.44999999335713237
+        },
+        {
+          "Value": 0.13499999765789375
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 23000,
+      "SkillName": {
+        "Hash": 844980974
+      },
+      "SkillDesc": {
+        "Hash": 1777866052
+      },
+      "Level": 5,
+      "AbilityName": "Ability23000",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "23010": {
+    "1": {
+      "SkillID": 23010,
+      "SkillName": {
+        "Hash": -1480617951
+      },
+      "SkillDesc": {
+        "Hash": 1777866053
+      },
+      "Level": 1,
+      "AbilityName": "Ability23010",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.47999999291427453
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.3599999946857059
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 23010,
+      "SkillName": {
+        "Hash": -1883902478
+      },
+      "SkillDesc": {
+        "Hash": 1777866053
+      },
+      "Level": 2,
+      "AbilityName": "Ability23010",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 0.5599999917333203
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.4199999937999902
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 23010,
+      "SkillName": {
+        "Hash": -317818537
+      },
+      "SkillDesc": {
+        "Hash": 1777866053
+      },
+      "Level": 3,
+      "AbilityName": "Ability23010",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.6399999905523661
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.47999999291427453
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 23010,
+      "SkillName": {
+        "Hash": -721103064
+      },
+      "SkillDesc": {
+        "Hash": 1777866053
+      },
+      "Level": 4,
+      "AbilityName": "Ability23010",
+      "ParamList": [
+        {
+          "Value": 0.5399999920285589
+        },
+        {
+          "Value": 0.26999999601427943
+        },
+        {
+          "Value": 0.7199999893714119
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.5399999920285589
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 23010,
+      "SkillName": {
+        "Hash": 844980877
+      },
+      "SkillDesc": {
+        "Hash": 1777866053
+      },
+      "Level": 5,
+      "AbilityName": "Ability23010",
+      "ParamList": [
+        {
+          "Value": 0.5999999911428432
+        },
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.7999999881904576
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalDamageBase",
+          "Value": {
+            "Value": 0.5999999911428432
+          }
+        }
+      ]
+    }
+  },
+  "21019": {
+    "1": {
+      "SkillID": 21019,
+      "SkillName": {
+        "Hash": -1897196734
+      },
+      "SkillDesc": {
+        "Hash": -594786876
+      },
+      "Level": 1,
+      "AbilityName": "Ability21019",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21019,
+      "SkillName": {
+        "Hash": 831686621
+      },
+      "SkillDesc": {
+        "Hash": -594786876
+      },
+      "Level": 2,
+      "AbilityName": "Ability21019",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21019,
+      "SkillName": {
+        "Hash": -734397320
+      },
+      "SkillDesc": {
+        "Hash": -594786876
+      },
+      "Level": 3,
+      "AbilityName": "Ability21019",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21019,
+      "SkillName": {
+        "Hash": 1994486035
+      },
+      "SkillDesc": {
+        "Hash": -594786876
+      },
+      "Level": 4,
+      "AbilityName": "Ability21019",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21019,
+      "SkillName": {
+        "Hash": 428402094
+      },
+      "SkillDesc": {
+        "Hash": -594786876
+      },
+      "Level": 5,
+      "AbilityName": "Ability21019",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "21020": {
+    "1": {
+      "SkillID": 21020,
+      "SkillName": {
+        "Hash": -1480615870
+      },
+      "SkillDesc": {
+        "Hash": 1777866116
+      },
+      "Level": 1,
+      "AbilityName": "Ability21020",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21020,
+      "SkillName": {
+        "Hash": -1883900397
+      },
+      "SkillDesc": {
+        "Hash": 1777866116
+      },
+      "Level": 2,
+      "AbilityName": "Ability21020",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21020,
+      "SkillName": {
+        "Hash": -317816456
+      },
+      "SkillDesc": {
+        "Hash": 1777866116
+      },
+      "Level": 3,
+      "AbilityName": "Ability21020",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21020,
+      "SkillName": {
+        "Hash": -721100983
+      },
+      "SkillDesc": {
+        "Hash": 1777866116
+      },
+      "Level": 4,
+      "AbilityName": "Ability21020",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21020,
+      "SkillName": {
+        "Hash": 844982958
+      },
+      "SkillDesc": {
+        "Hash": 1777866116
+      },
+      "Level": 5,
+      "AbilityName": "Ability21020",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "21023": {
+    "1": {
+      "SkillID": 21023,
+      "SkillName": {
+        "Hash": 986145459
+      },
+      "SkillDesc": {
+        "Hash": -2113816653
+      },
+      "Level": 1,
+      "AbilityName": "Ability21023",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21023,
+      "SkillName": {
+        "Hash": 1389429986
+      },
+      "SkillDesc": {
+        "Hash": -2113816653
+      },
+      "Level": 2,
+      "AbilityName": "Ability21023",
+      "ParamList": [
+        {
+          "Value": 0.34999999483332517
+        },
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21023,
+      "SkillName": {
+        "Hash": -176653955
+      },
+      "SkillDesc": {
+        "Hash": -2113816653
+      },
+      "Level": 3,
+      "AbilityName": "Ability21023",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21023,
+      "SkillName": {
+        "Hash": 582860932
+      },
+      "SkillDesc": {
+        "Hash": -2113816653
+      },
+      "Level": 4,
+      "AbilityName": "Ability21023",
+      "ParamList": [
+        {
+          "Value": 0.44999999335713237
+        },
+        {
+          "Value": 0.13999999793333007
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21023,
+      "SkillName": {
+        "Hash": -983223009
+      },
+      "SkillDesc": {
+        "Hash": -2113816653
+      },
+      "Level": 5,
+      "AbilityName": "Ability21023",
+      "ParamList": [
+        {
+          "Value": 0.499999992619036
+        },
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 4.999999921533747
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21024": {
+    "1": {
+      "SkillID": 21024,
+      "SkillName": {
+        "Hash": -2045265874
+      },
+      "SkillDesc": {
+        "Hash": -191502352
+      },
+      "Level": 1,
+      "AbilityName": "Ability21024",
+      "ParamList": [
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21024,
+      "SkillName": {
+        "Hash": 1846416895
+      },
+      "SkillDesc": {
+        "Hash": -191502352
+      },
+      "Level": 2,
+      "AbilityName": "Ability21024",
+      "ParamList": [
+        {
+          "Value": 0.08999999867142648
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21024,
+      "SkillName": {
+        "Hash": -882466460
+      },
+      "SkillDesc": {
+        "Hash": -191502352
+      },
+      "Level": 3,
+      "AbilityName": "Ability21024",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21024,
+      "SkillName": {
+        "Hash": -1641981347
+      },
+      "SkillDesc": {
+        "Hash": -191502352
+      },
+      "Level": 4,
+      "AbilityName": "Ability21024",
+      "ParamList": [
+        {
+          "Value": 0.10999999837618792
+        },
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21024,
+      "SkillName": {
+        "Hash": -75897406
+      },
+      "SkillDesc": {
+        "Hash": -191502352
+      },
+      "Level": 5,
+      "AbilityName": "Ability21024",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21022": {
+    "1": {
+      "SkillID": 21022,
+      "SkillName": {
+        "Hash": -1762940872
+      },
+      "SkillDesc": {
+        "Hash": 615066702
+      },
+      "Level": 1,
+      "AbilityName": "Ability21022",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21022,
+      "SkillName": {
+        "Hash": -196856931
+      },
+      "SkillDesc": {
+        "Hash": 615066702
+      },
+      "Level": 2,
+      "AbilityName": "Ability21022",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21022,
+      "SkillName": {
+        "Hash": 1369227010
+      },
+      "SkillDesc": {
+        "Hash": 615066702
+      },
+      "Level": 3,
+      "AbilityName": "Ability21022",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21022,
+      "SkillName": {
+        "Hash": -1003425985
+      },
+      "SkillDesc": {
+        "Hash": 615066702
+      },
+      "Level": 4,
+      "AbilityName": "Ability21022",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21022,
+      "SkillName": {
+        "Hash": 562657956
+      },
+      "SkillDesc": {
+        "Hash": 615066702
+      },
+      "Level": 5,
+      "AbilityName": "Ability21022",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.31999999527618306
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "BreakDamageAddedRatioBase",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "21026": {
+    "1": {
+      "SkillID": 21026,
+      "SkillName": {
+        "Hash": 1967376420
+      },
+      "SkillDesc": {
+        "Hash": -1354301766
+      },
+      "Level": 1,
+      "AbilityName": "Ability21026",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.0999999985238072
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21026,
+      "SkillName": {
+        "Hash": -761506935
+      },
+      "SkillDesc": {
+        "Hash": -1354301766
+      },
+      "Level": 2,
+      "AbilityName": "Ability21026",
+      "ParamList": [
+        {
+          "Value": 0.12499999780551303
+        },
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.12499999780551303
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21026,
+      "SkillName": {
+        "Hash": 804577006
+      },
+      "SkillDesc": {
+        "Hash": -1354301766
+      },
+      "Level": 3,
+      "AbilityName": "Ability21026",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.1499999977857108
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21026,
+      "SkillName": {
+        "Hash": -1924306349
+      },
+      "SkillDesc": {
+        "Hash": -1354301766
+      },
+      "Level": 4,
+      "AbilityName": "Ability21026",
+      "ParamList": [
+        {
+          "Value": 0.17499999706741665
+        },
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.17499999706741665
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21026,
+      "SkillName": {
+        "Hash": -358222408
+      },
+      "SkillDesc": {
+        "Hash": -1354301766
+      },
+      "Level": 5,
+      "AbilityName": "Ability21026",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.31999999527618306
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    }
+  },
+  "21027": {
+    "1": {
+      "SkillID": 21027,
+      "SkillName": {
+        "Hash": 421495455
+      },
+      "SkillDesc": {
+        "Hash": 211782175
+      },
+      "Level": 1,
+      "AbilityName": "Ability21027",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.03999999940952288
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.11999999822856863
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21027,
+      "SkillName": {
+        "Hash": 824779982
+      },
+      "SkillDesc": {
+        "Hash": 211782175
+      },
+      "Level": 2,
+      "AbilityName": "Ability21027",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 0.0499999992619036
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.1499999977857108
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21027,
+      "SkillName": {
+        "Hash": -741303959
+      },
+      "SkillDesc": {
+        "Hash": 211782175
+      },
+      "Level": 3,
+      "AbilityName": "Ability21027",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.059999999114284316
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.17999999734285296
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21027,
+      "SkillName": {
+        "Hash": -338019432
+      },
+      "SkillDesc": {
+        "Hash": 211782175
+      },
+      "Level": 4,
+      "AbilityName": "Ability21027",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 0.06999999896666503
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.2099999968999951
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21027,
+      "SkillName": {
+        "Hash": -1904103373
+      },
+      "SkillDesc": {
+        "Hash": 211782175
+      },
+      "Level": 5,
+      "AbilityName": "Ability21027",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 2.9999999529202483
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AllDamageTypeAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    }
+  },
+  "21029": {
+    "1": {
+      "SkillID": 21029,
+      "SkillName": {
+        "Hash": -1897196827
+      },
+      "SkillDesc": {
+        "Hash": -594786879
+      },
+      "Level": 1,
+      "AbilityName": "Ability21029",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21029,
+      "SkillName": {
+        "Hash": 831686528
+      },
+      "SkillDesc": {
+        "Hash": -594786879
+      },
+      "Level": 2,
+      "AbilityName": "Ability21029",
+      "ParamList": [
+        {
+          "Value": 0.5999999911428432
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21029,
+      "SkillName": {
+        "Hash": -734397413
+      },
+      "SkillDesc": {
+        "Hash": -594786879
+      },
+      "Level": 3,
+      "AbilityName": "Ability21029",
+      "ParamList": [
+        {
+          "Value": 0.7199999893714119
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21029,
+      "SkillName": {
+        "Hash": 1994485942
+      },
+      "SkillDesc": {
+        "Hash": -594786879
+      },
+      "Level": 4,
+      "AbilityName": "Ability21029",
+      "ParamList": [
+        {
+          "Value": 0.8399999875999804
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21029,
+      "SkillName": {
+        "Hash": 428402001
+      },
+      "SkillDesc": {
+        "Hash": -594786879
+      },
+      "Level": 5,
+      "AbilityName": "Ability21029",
+      "ParamList": [
+        {
+          "Value": 0.9599999858285491
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21030": {
+    "1": {
+      "SkillID": 21030,
+      "SkillName": {
+        "Hash": -1480615711
+      },
+      "SkillDesc": {
+        "Hash": 1777866117
+      },
+      "Level": 1,
+      "AbilityName": "Ability21030",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.5999999911428432
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.15999999763809153
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21030,
+      "SkillName": {
+        "Hash": -1883900238
+      },
+      "SkillDesc": {
+        "Hash": 1777866117
+      },
+      "Level": 2,
+      "AbilityName": "Ability21030",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.749999988928554
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.1999999970476144
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21030,
+      "SkillName": {
+        "Hash": -317816297
+      },
+      "SkillDesc": {
+        "Hash": 1777866117
+      },
+      "Level": 3,
+      "AbilityName": "Ability21030",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.8999999867142647
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21030,
+      "SkillName": {
+        "Hash": -721100824
+      },
+      "SkillDesc": {
+        "Hash": 1777866117
+      },
+      "Level": 4,
+      "AbilityName": "Ability21030",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 1.049999983568653
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21030,
+      "SkillName": {
+        "Hash": 844983117
+      },
+      "SkillDesc": {
+        "Hash": 1777866117
+      },
+      "Level": 5,
+      "AbilityName": "Ability21030",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 1.1999999813543638
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "DefenceAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    }
+  },
+  "21031": {
+    "1": {
+      "SkillID": 21031,
+      "SkillName": {
+        "Hash": 1268470620
+      },
+      "SkillDesc": {
+        "Hash": -951017238
+      },
+      "Level": 1,
+      "AbilityName": "Ability21031",
+      "ParamList": [
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.11999999822856863
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21031,
+      "SkillName": {
+        "Hash": -297613321
+      },
+      "SkillDesc": {
+        "Hash": -951017238
+      },
+      "Level": 2,
+      "AbilityName": "Ability21031",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.1499999977857108
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21031,
+      "SkillName": {
+        "Hash": -1863697262
+      },
+      "SkillDesc": {
+        "Hash": -951017238
+      },
+      "Level": 3,
+      "AbilityName": "Ability21031",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.17999999734285296
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21031,
+      "SkillName": {
+        "Hash": 865186093
+      },
+      "SkillDesc": {
+        "Hash": -951017238
+      },
+      "Level": 4,
+      "AbilityName": "Ability21031",
+      "ParamList": [
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.2099999968999951
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21031,
+      "SkillName": {
+        "Hash": -700897848
+      },
+      "SkillDesc": {
+        "Hash": -951017238
+      },
+      "Level": 5,
+      "AbilityName": "Ability21031",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.31999999527618306
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "CriticalChanceBase",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    }
+  },
+  "21032": {
+    "1": {
+      "SkillID": 21032,
+      "SkillName": {
+        "Hash": -1762940713
+      },
+      "SkillDesc": {
+        "Hash": 615066703
+      },
+      "Level": 1,
+      "AbilityName": "Ability21032",
+      "ParamList": [
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.059999999114284316
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21032,
+      "SkillName": {
+        "Hash": -196856772
+      },
+      "SkillDesc": {
+        "Hash": 615066703
+      },
+      "Level": 2,
+      "AbilityName": "Ability21032",
+      "ParamList": [
+        {
+          "Value": 0.12499999780551303
+        },
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 0.07499999854360943
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21032,
+      "SkillName": {
+        "Hash": 1369227169
+      },
+      "SkillDesc": {
+        "Hash": 615066703
+      },
+      "Level": 3,
+      "AbilityName": "Ability21032",
+      "ParamList": [
+        {
+          "Value": 0.1499999977857108
+        },
+        {
+          "Value": 0.17999999734285296
+        },
+        {
+          "Value": 0.08999999867142648
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21032,
+      "SkillName": {
+        "Hash": -1003425826
+      },
+      "SkillDesc": {
+        "Hash": 615066703
+      },
+      "Level": 4,
+      "AbilityName": "Ability21032",
+      "ParamList": [
+        {
+          "Value": 0.17499999706741665
+        },
+        {
+          "Value": 0.2099999968999951
+        },
+        {
+          "Value": 0.1049999981007516
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21032,
+      "SkillName": {
+        "Hash": 562658115
+      },
+      "SkillDesc": {
+        "Hash": 615066703
+      },
+      "Level": 5,
+      "AbilityName": "Ability21032",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21033": {
+    "1": {
+      "SkillID": 21033,
+      "SkillName": {
+        "Hash": 986145618
+      },
+      "SkillDesc": {
+        "Hash": -2113816652
+      },
+      "Level": 1,
+      "AbilityName": "Ability21033",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.11999999822856863
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 21033,
+      "SkillName": {
+        "Hash": 1389430145
+      },
+      "SkillDesc": {
+        "Hash": -2113816652
+      },
+      "Level": 2,
+      "AbilityName": "Ability21033",
+      "ParamList": [
+        {
+          "Value": 0.2999999955714216
+        },
+        {
+          "Value": 0.1499999977857108
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.2999999955714216
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 21033,
+      "SkillName": {
+        "Hash": -176653796
+      },
+      "SkillDesc": {
+        "Hash": -2113816652
+      },
+      "Level": 3,
+      "AbilityName": "Ability21033",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.3599999946857059
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 21033,
+      "SkillName": {
+        "Hash": 582861091
+      },
+      "SkillDesc": {
+        "Hash": -2113816652
+      },
+      "Level": 4,
+      "AbilityName": "Ability21033",
+      "ParamList": [
+        {
+          "Value": 0.4199999937999902
+        },
+        {
+          "Value": 0.2099999968999951
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.4199999937999902
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 21033,
+      "SkillName": {
+        "Hash": -983222850
+      },
+      "SkillDesc": {
+        "Hash": -2113816652
+      },
+      "Level": 5,
+      "AbilityName": "Ability21033",
+      "ParamList": [
+        {
+          "Value": 0.47999999291427453
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.47999999291427453
+          }
+        }
+      ]
+    }
+  },
+  "21034": {
+    "1": {
+      "SkillID": 21034,
+      "SkillName": {
+        "Hash": -2045265715
+      },
+      "SkillDesc": {
+        "Hash": -191502351
+      },
+      "Level": 1,
+      "AbilityName": "Ability21034",
+      "ParamList": [
+        {
+          "Value": 0.00199999983077776
+        },
+        {
+          "Value": 159.9999974890799
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21034,
+      "SkillName": {
+        "Hash": 1846417054
+      },
+      "SkillDesc": {
+        "Hash": -191502351
+      },
+      "Level": 2,
+      "AbilityName": "Ability21034",
+      "ParamList": [
+        {
+          "Value": 0.00250000013771816
+        },
+        {
+          "Value": 159.9999974890799
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21034,
+      "SkillName": {
+        "Hash": -882466301
+      },
+      "SkillDesc": {
+        "Hash": -191502351
+      },
+      "Level": 3,
+      "AbilityName": "Ability21034",
+      "ParamList": [
+        {
+          "Value": 0.00299999974616664
+        },
+        {
+          "Value": 159.9999974890799
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21034,
+      "SkillName": {
+        "Hash": -1641981188
+      },
+      "SkillDesc": {
+        "Hash": -191502351
+      },
+      "Level": 4,
+      "AbilityName": "Ability21034",
+      "ParamList": [
+        {
+          "Value": 0.00350000005310704
+        },
+        {
+          "Value": 159.9999974890799
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21034,
+      "SkillName": {
+        "Hash": -75897247
+      },
+      "SkillDesc": {
+        "Hash": -191502351
+      },
+      "Level": 5,
+      "AbilityName": "Ability21034",
+      "ParamList": [
+        {
+          "Value": 0.00399999966155552
+        },
+        {
+          "Value": 159.9999974890799
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "23002": {
+    "1": {
+      "SkillID": 23002,
+      "SkillName": {
+        "Hash": -1762942856
+      },
+      "SkillDesc": {
+        "Hash": 615066638
+      },
+      "Level": 1,
+      "AbilityName": "Ability23002",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.07999999881904576
+        },
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.23999999645713727
+          }
+        }
+      ]
+    },
+    "2": {
+      "SkillID": 23002,
+      "SkillName": {
+        "Hash": -196858915
+      },
+      "SkillDesc": {
+        "Hash": 615066638
+      },
+      "Level": 2,
+      "AbilityName": "Ability23002",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.08999999867142648
+        },
+        {
+          "Value": 0.27999999586666013
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.27999999586666013
+          }
+        }
+      ]
+    },
+    "3": {
+      "SkillID": 23002,
+      "SkillName": {
+        "Hash": 1369225026
+      },
+      "SkillDesc": {
+        "Hash": 615066638
+      },
+      "Level": 3,
+      "AbilityName": "Ability23002",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.0999999985238072
+        },
+        {
+          "Value": 0.31999999527618306
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.31999999527618306
+          }
+        }
+      ]
+    },
+    "4": {
+      "SkillID": 23002,
+      "SkillName": {
+        "Hash": -1003427969
+      },
+      "SkillDesc": {
+        "Hash": 615066638
+      },
+      "Level": 4,
+      "AbilityName": "Ability23002",
+      "ParamList": [
+        {
+          "Value": 0.3599999946857059
+        },
+        {
+          "Value": 0.10999999837618792
+        },
+        {
+          "Value": 0.3599999946857059
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.3599999946857059
+          }
+        }
+      ]
+    },
+    "5": {
+      "SkillID": 23002,
+      "SkillName": {
+        "Hash": 562655972
+      },
+      "SkillDesc": {
+        "Hash": 615066638
+      },
+      "Level": 5,
+      "AbilityName": "Ability23002",
+      "ParamList": [
+        {
+          "Value": 0.3999999940952288
+        },
+        {
+          "Value": 0.11999999822856863
+        },
+        {
+          "Value": 0.3999999940952288
+        }
+      ],
+      "AbilityProperty": [
+        {
+          "PropertyType": "AttackAddedRatio",
+          "Value": {
+            "Value": 0.3999999940952288
+          }
+        }
+      ]
+    }
+  },
+  "21018": {
+    "1": {
+      "SkillID": 21018,
+      "SkillName": {
+        "Hash": -351315769
+      },
+      "SkillDesc": {
+        "Hash": 2134096479
+      },
+      "Level": 1,
+      "AbilityName": "Ability21018",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21018,
+      "SkillName": {
+        "Hash": -754600296
+      },
+      "SkillDesc": {
+        "Hash": 2134096479
+      },
+      "Level": 2,
+      "AbilityName": "Ability21018",
+      "ParamList": [
+        {
+          "Value": 0.17999999734285296
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21018,
+      "SkillName": {
+        "Hash": 811483645
+      },
+      "SkillDesc": {
+        "Hash": 2134096479
+      },
+      "Level": 3,
+      "AbilityName": "Ability21018",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21018,
+      "SkillName": {
+        "Hash": 408199118
+      },
+      "SkillDesc": {
+        "Hash": 2134096479
+      },
+      "Level": 4,
+      "AbilityName": "Ability21018",
+      "ParamList": [
+        {
+          "Value": 0.21999999675237583
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21018,
+      "SkillName": {
+        "Hash": 1974283059
+      },
+      "SkillDesc": {
+        "Hash": 2134096479
+      },
+      "Level": 5,
+      "AbilityName": "Ability21018",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        }
+      ],
+      "AbilityProperty": []
+    }
+  },
+  "21025": {
+    "1": {
+      "SkillID": 21025,
+      "SkillName": {
+        "Hash": 703820457
+      },
+      "SkillDesc": {
+        "Hash": 1374581589
+      },
+      "Level": 1,
+      "AbilityName": "Ability21025",
+      "ParamList": [
+        {
+          "Value": 0.15999999763809153
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "2": {
+      "SkillID": 21025,
+      "SkillName": {
+        "Hash": -862263484
+      },
+      "SkillDesc": {
+        "Hash": 1374581589
+      },
+      "Level": 2,
+      "AbilityName": "Ability21025",
+      "ParamList": [
+        {
+          "Value": 0.1999999970476144
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "3": {
+      "SkillID": 21025,
+      "SkillName": {
+        "Hash": 1866619871
+      },
+      "SkillDesc": {
+        "Hash": 1374581589
+      },
+      "Level": 3,
+      "AbilityName": "Ability21025",
+      "ParamList": [
+        {
+          "Value": 0.23999999645713727
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "4": {
+      "SkillID": 21025,
+      "SkillName": {
+        "Hash": -55694430
+      },
+      "SkillDesc": {
+        "Hash": 1374581589
+      },
+      "Level": 4,
+      "AbilityName": "Ability21025",
+      "ParamList": [
+        {
+          "Value": 0.27999999586666013
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    },
+    "5": {
+      "SkillID": 21025,
+      "SkillName": {
+        "Hash": -1621778371
+      },
+      "SkillDesc": {
+        "Hash": 1374581589
+      },
+      "Level": 5,
+      "AbilityName": "Ability21025",
+      "ParamList": [
+        {
+          "Value": 0.31999999527618306
+        },
+        {
+          "Value": 0.9999999843067494
+        }
+      ],
+      "AbilityProperty": []
+    }
+  }
+}

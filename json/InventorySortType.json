@@ -1,0 +1,122 @@
+{
+  "Count": {
+    "SortType": "Count",
+    "SortTypeName": {
+      "Hash": 842389391
+    }
+  },
+  "Rarity": {
+    "SortType": "Rarity",
+    "SortTypeName": {
+      "Hash": 439104864
+    }
+  },
+  "Level": {
+    "SortType": "Level",
+    "SortTypeName": {
+      "Hash": 2005188805
+    }
+  },
+  "AvatarBaseType": {
+    "SortType": "AvatarBaseType",
+    "SortTypeName": {
+      "Hash": 1601904278
+    }
+  },
+  "Attack": {
+    "SortType": "Attack",
+    "SortTypeName": {
+      "Hash": -1126979077
+    }
+  },
+  "Defence": {
+    "SortType": "Defence",
+    "SortTypeName": {
+      "Hash": -1530263604
+    }
+  },
+  "HP": {
+    "SortType": "HP",
+    "SortTypeName": {
+      "Hash": 35820337
+    }
+  },
+  "ObtainTime": {
+    "SortType": "ObtainTime",
+    "SortTypeName": {
+      "Hash": -1079924910
+    }
+  },
+  "HPAddedRatio": {
+    "SortType": "HPAddedRatio",
+    "SortTypeName": {
+      "Hash": 486159031
+    }
+  },
+  "HPDelta": {
+    "SortType": "HPDelta",
+    "SortTypeName": {
+      "Hash": -1265111329
+    }
+  },
+  "AttackAddedRatio": {
+    "SortType": "AttackAddedRatio",
+    "SortTypeName": {
+      "Hash": -1265111328
+    }
+  },
+  "AttackDelta": {
+    "SortType": "AttackDelta",
+    "SortTypeName": {
+      "Hash": -1265111327
+    }
+  },
+  "DefenceAddedRatio": {
+    "SortType": "DefenceAddedRatio",
+    "SortTypeName": {
+      "Hash": -1265111326
+    }
+  },
+  "DefenceDelta": {
+    "SortType": "DefenceDelta",
+    "SortTypeName": {
+      "Hash": -1265111333
+    }
+  },
+  "SpeedBase": {
+    "SortType": "SpeedBase",
+    "SortTypeName": {
+      "Hash": -1265111332
+    }
+  },
+  "CriticalChance": {
+    "SortType": "CriticalChance",
+    "SortTypeName": {
+      "Hash": -1265111331
+    }
+  },
+  "CriticalDamage": {
+    "SortType": "CriticalDamage",
+    "SortTypeName": {
+      "Hash": -1265111330
+    }
+  },
+  "StatusProbability": {
+    "SortType": "StatusProbability",
+    "SortTypeName": {
+      "Hash": -1265111337
+    }
+  },
+  "StatusResistance": {
+    "SortType": "StatusResistance",
+    "SortTypeName": {
+      "Hash": -1265111336
+    }
+  },
+  "Default": {
+    "SortType": "Default",
+    "SortTypeName": {
+      "Hash": -1668395856
+    }
+  }
+}
